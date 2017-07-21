@@ -1,0 +1,4 @@
+LIBRARY "MyDLL"
+EXPORTS  
+     WMI_DeviceQuery @1
+	 Verify_BoardIDAndCpuID @2
